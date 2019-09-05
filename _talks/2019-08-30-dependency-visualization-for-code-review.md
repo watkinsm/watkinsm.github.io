@@ -8,8 +8,6 @@ date: 2019-08-30
 location: "Gothenburg, Sweden"
 ---
 
-Could visualizing changes improve your patchset quality and review time?
+In this talk, I showcased Softagram's integration with Gerrit, and demonstrated how visualized impact reports can make code review easier, less time-consuming, and more enjoyable. 
 
-Softagram‘s automated Impact Report presents patchsets’ new, removed, and changed files and dependencies in an easy-to understand graphical format, along with insights into hidden dependencies (co-changed files based on git history) and architectural violations.
-
-In this short showcase, we will present our new approach, and discuss how visuals and transparency would improve architectural quality and make code reviewers' lives easier.
+https://gerrit.googlesource.com/summit/2019/+/master/sessions/dependency-visualization.md
