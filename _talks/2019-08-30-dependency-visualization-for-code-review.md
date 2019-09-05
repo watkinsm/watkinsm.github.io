@@ -8,4 +8,4 @@ date: 2019-08-30
 location: "Gothenburg, Sweden"
 ---
 
-In this talk, I showcased Softagram's integration with Gerrit, and demonstrated how visualized impact reports can make code review easier, less time-consuming, and more enjoyable. <br /> <br />https://gerrit.googlesource.com/summit/2019/+/master/sessions/dependency-visualization.md
+In this talk, I showcased Softagram's integration with Gerrit, and demonstrated how visualized impact reports can make code review easier, less time-consuming, and more enjoyable. <br /> <br />[https://gerrit.googlesource.com/summit/2019/+/master/sessions/dependency-visualization.md](https://gerrit.googlesource.com/summit/2019/+/master/sessions/dependency-visualization.md)
