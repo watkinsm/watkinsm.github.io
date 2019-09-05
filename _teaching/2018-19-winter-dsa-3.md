@@ -1,0 +1,13 @@
+---
+title: "Data Structures and Algorithms for Computational Linguistics III"
+collection: teaching
+type: "Undergraduate course"
+permalink: /teaching/2018-19-winter-dsa-3
+venue: "University of Tübingen, Department of General and Computational Linguistics"
+date: 2018-19
+location: "Tübingen, Germany"
+---
+
+Teaching assistant for advanced programming course including instruction in Java and Python programming languages. Gave weekly tutorial sessions, and graded and provided sample solutions for programming assignments.
+
+[https://dsacl3-2018.github.io/](https://dsacl3-2018.github.io/)
