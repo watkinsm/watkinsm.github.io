@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/2018-19-winter-dsa-3
 venue: "University of Tübingen, Department of General and Computational Linguistics"
-date: 2018-19
+date: 2018
 location: "Tübingen, Germany"
 ---
 
