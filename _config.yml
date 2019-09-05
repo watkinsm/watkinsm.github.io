@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael Watkins"
 title_separator          : "-"
 name                     : &name "Michael Watins"
-description              : &description "Computational linguistics student at the University of Tübingen, back end developer at Softagram"
+description              : &description "Computational linguistics student and software developer"
 url                      : https://watkinsm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "watkinsm/watkinsm.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Michael Watkins"
   avatar           : "profile.png"
-  bio              : "Computational linguistics student at the University of Tübingen, back end developer at Softagram"
+  bio              : "Computational linguistics student and software developer"
   location         : "Oulu"
-  employer         : "[Softagram](https://softagram.com)"
+  employer         : "Softagram"
   pubmed           : 
   googlescholar    : 
   email            :
