@@ -10,4 +10,4 @@ location: "Gothenburg, Sweden"
 
 In this talk, I showcased Softagram's integration with Gerrit, and demonstrated how visualized impact reports can make code review easier, less time-consuming, and more enjoyable. 
 
-https://gerrit.googlesource.com/summit/2019/+/master/sessions/dependency-visualization.md
+[httpsgerrit.googlesource.com/summit/2019/+/master/sessions/dependency-visualization.md](https://gerrit.googlesource.com/summit/2019/+/master/sessions/dependency-visualization.md)
