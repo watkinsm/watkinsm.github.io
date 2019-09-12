@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-Computational linguistics student at the University of Tübingen
+🎓 Computational linguistics student at the University of Tübingen
 
-Backend/DevOps developer at [Softagram](https://softagram.com) 
+💻 Backend/DevOps developer at [Softagram](https://softagram.com) 
 
-Wing/center at [Oulu Rugby](https://oulurugby.com)
+🏉 Wing/center at [Oulu Rugby](https://oulurugby.com)
