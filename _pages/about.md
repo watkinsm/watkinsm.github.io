@@ -8,4 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a computational linguistics student at the University of Tübingen. I'm currently working as a back-end/DevOps developer at [Softagram](https://softagram.com).
+Computational linguistics student at the University of Tübingen
+
+Backend/DevOps developer at [Softagram](https://softagram.com) 
+
+Wing/center at [Oulu Rugby](https://oulurugby.com)
