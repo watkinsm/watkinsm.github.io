@@ -1,14 +1,14 @@
 ---
-permalink: /rugby_stats/
-title: "Rugby Stats"
-excerpt: "Rugby Stats"
+permalink: /rugby/
+title: "Rugby"
+excerpt: "Rugby"
 author_profile: true
 ---
 
 ### Finland Rugby Division 2
 #### Summer 2019
 
-Opponent | Tries | Conversions (Attempted) | Points |
+| Opponent | Tries | Conversions (Attempted) | Points |
 | - | - | - | - |
 | Saimaa | 0 | 2 (2) | 4 |
 | @ Joensuu | 0 | 0 (2) | 0 |
