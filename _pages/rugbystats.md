@@ -16,6 +16,5 @@ author_profile: true
 | @ Pori<sup>[1](#center)</sup> | 1 | 1 (2) | 7
 | **Season** | **1** | **4** (8) | **13** |
 
-<a name="wing">1</a>: Wing
-<a name="fullback">2</a>: Fullback
-<a name="center">3</a>: Outside center
+<sub><sup>
+<a name="wing">1</a>: wing, <a name="fullback">2</a>: fullback, <a name="center">3</a>: outside center</sup></sub>
