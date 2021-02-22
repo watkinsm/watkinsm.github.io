@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Michael Watkins"
 title_separator          : "-"
 name                     : &name "Michael Watins"
-description              : &description "Software Specialist, Backend Developer, Computational Linguist"
+description              : &description "Software Engineer, Computational Linguist"
 url                      : https://michaelwatkins.eu # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "watkinsm/watkinsm.github.io"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Michael Watkins"
   avatar           : "profile.png"
-  bio              : "Software Specialist, Backend Developer, Computational Linguist"
+  bio              : "Software Engineer, Computational Linguist"
   location         : "Oulu"
-  employer         : "Softagram"
+  employer         : "Kodit.io"
   pubmed           : 
   googlescholar    : 
   email            :
